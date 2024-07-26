@@ -30,14 +30,14 @@ jobs:
       - name: Build presentation HTML (de)
         uses: docker://marpteam/marp-cli:v3.4.0
         with:
-          args: slides/de/*.md -o build/index.html
+          args: slides/de.md -o build/presentation_de.html
         env:
           MARP_USER: root:root
 
       - name: Build presentation PDF (de)
         uses: docker://marpteam/marp-cli:v3.4.0
         with:
-          args: slides/de/*.md --allow-local-files -o build/presentation.pdf
+          args: slides/de.md --allow-local-files -o build/presentation_de.pdf
         env:
           MARP_USER: root:root
 
