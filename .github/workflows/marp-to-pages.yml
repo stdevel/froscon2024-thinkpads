@@ -24,20 +24,20 @@ jobs:
       - name: Ensure build dir exists
         run: mkdir -p build
 
-      - name: Copy images directory (if exists)
-        run: if [[ -d img ]]; then cp -R img build/img; fi
+      # - name: Copy images directory (if exists)
+      #   run: if [[ -d img ]]; then cp -R img build/img; fi
 
       - name: Build presentation HTML (de)
         uses: docker://marpteam/marp-cli:v3.4.0
         with:
-          args: slides/de.md --theme ./style/academic.css --html -o build/presentation_de.html
+          args: slides/de.md --theme style/academic.css --html -o build/presentation_de.html
         env:
           MARP_USER: root:root
 
       - name: Build presentation PDF (de)
         uses: docker://marpteam/marp-cli:v3.4.0
         with:
-          args: slides/de.md --theme ./style/academic.css --html --allow-local-files -o build/presentation_de.pdf
+          args: slides/de.md --theme style/academic.css --html --allow-local-files -o build/presentation_de.pdf
         env:
           MARP_USER: root:root
 
@@ -56,7 +56,7 @@ jobs:
         if: steps.docs-folder-exists.outputs.has_docs == '0'
         uses: docker://marpteam/marp-cli:v3.4.0
         with:
-          args: -I docs/ -o build/docs/
+          args: -I docs/ -o build/docs/ --theme style/academic.css --html
         env:
           MARP_USER: root:root
 
