@@ -15,10 +15,10 @@ $ npx marp --theme-set ./style --html -s slides/
 ## Render HTML and PDF
 
 ```command
-$ npx marp --theme ./style/academic.css --html slides/de.md
+$ npx marp --theme ./style/think.css --html slides/de.md
 ```
 
 ```command
 $ export CHROME_PATH="PATH"
-$ npx marp --theme ./style/academic.css --html slides/de.md --pdf
+$ npx marp --theme ./style/think.css --html slides/de.md --pdf
 ```
