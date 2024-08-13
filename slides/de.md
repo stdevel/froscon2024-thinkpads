@@ -95,7 +95,7 @@ FrOSCon 2024
 
 ---
 
-<!-- _header: Motivation -->
+<!-- _header: Zeitloses Design, das heute noch erkennbar ist -->
 
 <div class="container">
 
@@ -331,6 +331,15 @@ Transport der Sammlung
 * **1991** - erster Laptop (*PS/2 Model L40 SX*) erscheint
 * **1992** bis **2004** - ThinkPads
 * **2005** - Verkauf der PC-Sparte an Lenovo
+
+<!--
+
+- PC-Geschäft war nicht mehr profitabel genug für IBM
+- großes Angebot, Kund:innen wollen keine hohen Preise für PCs ausgeben
+  - Produktionskosten zu hoch für IBM um noch profitabel zu bleiben
+- 2014 wurde auch das Servergeschäft an Lenovo verkauft
+
+-->
 
 ---
 
@@ -629,7 +638,7 @@ footer: ''
 - IBM Deutschland sprach sich daher gegen schwarz aus
 - man dachte über **kieselgraue** Geräte nach, verwarf die Idee aber
 - Regelung lockerte sich später, sofern Handbuch-Hinweis existiert
-  - "Dieses Produkt ist nicht für den Bürogebrauch bestimmt"
+  - *"Dieses Produkt ist nicht für den Bürogebrauch bestimmt"*
 
 <div style="display:contents;" data-marpit-fragment>
 
@@ -728,7 +737,7 @@ ThinkPad 550BJ mit Drucker
 
 ---
 
-<!-- _header: Modellserien von 1991 bis 1999 -->
+<!-- _header: Details des 760EL (1996) -->
 
 <div class="container">
 
@@ -736,8 +745,7 @@ ThinkPad 550BJ mit Drucker
 
 ![w:550 center](./imgs/760el_modularity.jpg)
 
-Modularer Aufbau beim 760EL
-(1996)
+Modularer Aufbau
 
 </div>
 
@@ -802,7 +810,7 @@ ThinkPad 820 (1995)
 
 <div class="col">
 
-- Mainframes haben mindestens eine **HMC**
+- Mainframes haben mehrere **HMCs**
   - dienen u.a. zum Starten und Steuern
 - werden i.d.R. selten benutzt
   - Debugging, Troubleshooting
@@ -1105,12 +1113,13 @@ CF-Kartenleser
 - technisch unverändert, lediglich andere Gehäusefarbe und Logo
 - **UltraBay**-Docking Station
 - wegen zu geringem Interesse eingestellt
+- Shout-Out: [In ❤️ with PDA](https://inlovewithpda.de/)
 
 </div>
 
 <div class="col">
 
-![w:550 center](./imgs/ibm_workpad.png)
+![w:550 center](./imgs/ibm_workpad.jpg)
 
 IBM WorkPad (1997)
 
@@ -1293,7 +1302,7 @@ X1 Nano (2021)
 
 Für einige der Jubiläen wurden besondere Modelle veröffentlicht:
 
-* [ThinkPad Reserve Edition](https://thinkwiki.de/X61#ThinkPad_Reserve_Edition)
+- [ThinkPad Reserve Edition](https://thinkwiki.de/X61#ThinkPad_Reserve_Edition)
   - zum 15. Jubiläum
   - in Lederhülle eingelassenes X61s mit Exklusiv-Service
   - Kosten: **5.000 USD**
@@ -1609,4 +1618,4 @@ Zu diesen Themen gibt es passende **Bücher**:
 
 <!-- _class: lead -->
 
-# Danke für die Aufmerksamkeit
+# 🔴 Danke für die Aufmerksamkeit
