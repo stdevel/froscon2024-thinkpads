@@ -18,6 +18,9 @@ theme: think
     .col25{
         width: 25%;
     }
+    .col40{
+        width: 40%;
+    }
 </style>
 
 <!-- _class: lead -->
@@ -28,7 +31,7 @@ theme: think
 
 <br>
 
-Christian Stankowic
+Christian ~~Nostalgowic~~ Stankowic
 FrOSCon 2024
 18.08.2024
 
@@ -73,10 +76,103 @@ FrOSCon 2024
 
 <!-- _header: Motivation -->
 
-- TODO
-- Wieso ThinkPads?
-- Beispielfoto
-- Wie kam ich zu ThinkPads?
+- in Business- und Hacker:innen-Kreisen häufig anzutreffen
+- prägten seit der Einführung **1992** den Notebook-Markt
+- Marke hat sich immer verändert, die Wurzeln sind jedoch noch immer erkennbar
+- stehen nach wie vor für **robuste** und langlebige Geräte
+
+<div style="display:contents;" data-marpit-fragment>
+
+- sah Anfang der 2000er einen Vertreterkoffer mit T23 und **Drucker**
+- **zeitloses** Design und Praktikabilität haben mich begeistert
+- seither ThinkPads als Daily Driver
+- in einem Corona-Lockdown angefangen ThinkPads zu sammeln
+
+</div>
+
+---
+
+<!-- _header: Motivation -->
+
+<div class="container">
+
+<div class="col">
+
+![w:480 center](./imgs/t23.jpg)
+
+IBM ThinkPad T23 (2001)
+
+</div>
+
+<div class="col">
+
+![w:480 center](./imgs/t470p.jpg)
+
+Lenovo ThinkPad T470p (2017)
+
+</div>
+
+</div>
+
+<!--
+
+- Clamshell-Design entfällt bei Lenovo
+- blauer Farbton entfällt
+- rote Akzente bei TrackPoint und TrackPad bestehen weitehrin
+- schräges Logo ist weiterhin eine Marke
+
+-->
+
+---
+
+<!-- _header: ThinkPad-Museum -->
+
+<div class="container">
+
+<div class="col">
+
+- Online-Museum als **Blog**
+- listet Details der Sammlung auf
+  - **54** Notebooks
+  - **3** PDAs
+  - **7** Docking Stationen
+- **WIP**: Bilder-Galerien und ergänzende Artikelserien
+- monatlicher **Podcast**
+- 🔴 [thinkpad-museum.de](https://thinkpad-museum.de)
+
+</div>
+
+<div class="col">
+
+![w:300 center](./imgs/museum.jpg)
+
+</div>
+
+</div>
+
+---
+
+<!-- _header: ThinkPad-Museum -->
+
+<div class="container">
+
+<div class="col">
+
+![w:480 center](./imgs/museum_table.jpg)
+
+Teil der Sammlung
+
+</div>
+
+<div class="col">
+
+![w:580 center](./imgs/museum_transport.jpg)
+
+Transport der Sammlung
+
+</div>
+
+</div>
 
 ---
 
@@ -329,7 +425,7 @@ Erstes ThinkPad
 - David Hill
   - ThinkPad-Designchef
 - **Dr. Ted Selker**
-  - Erfinder des TrackPoints
+  - Erfinder des **TrackPoints**
 
 </div>
 
@@ -342,7 +438,10 @@ Erstes ThinkPad
 - Tom Hardy
   - IBM-Industriedesigner
 - George Karidis
-  - Designer des Butterfly Keyboards
+  - Designer des **TrackWrite Keyboards**
+  - auch als **Butterfly Keyboard** bekannt
+- **Mark Pearson**
+  - pflegt Linux-Support
 
 </div>
 
@@ -352,7 +451,23 @@ Erstes ThinkPad
 
 ---
 
+<!-- _header: Trivia: Unterschiedliche TrackPoint-Typen -->
+<!-- footer: Quelle: [Reddit](https://www.reddit.com/r/thinkpad/comments/h16v1f/tizio_and_thinkpad_the_perfect_classical/#lightbox) -->
+
+![w:1150 center](./imgs/trackpoints.jpg)
+
+<!--
+
+- wurden die Jahre über immer optimiert
+- wurden kleiner, da die Geräte auch kleiner werden
+- billiger Replicas erkennt man daran, dass sie schnell **speckig** werden
+
+-->
+
+---
+
 <!-- _header: Richard Sapper -->
+<!-- footer: '' -->
 
 <div class="container">
 
@@ -422,9 +537,8 @@ footer: Quelle: [Reddit](https://www.reddit.com/r/thinkpad/comments/h16v1f/tizio
 
 ---
 
-<!-- _header: Richard Sapper -->
-
 <!--
+_header: Richard Sapper
 footer: ''
 -->
 
@@ -482,9 +596,75 @@ footer: ''
 
 ---
 
-<!-- _header: Trivia: Beige und schwarze ThinkPads, TrackPoint -->
+<!-- _header: Trivia: Beige und schwarze ThinkPads -->
 
-- TODO
+- frühere IBM-Geräte hatten eine **beige** Farbe
+  - z.B. IBM PC, Convertible, PS/2 Model L40 SX,...
+  - einfach und kostengünstig zu produzieren
+- Sapper hasste Design und Farbe
+  - *"hässliche, dumme, langweilige Box"*
+- einige frühe Geräte gab es sowohl in beige als auch **schwarz**
+  - beige für den *Einzelhandel*, schwarz für *Geschäftskund:innen*
+
+<div style="display:contents;" data-marpit-fragment>
+
+- Gerüchte über eine deutsche **Arbeitsplatznorm** in den 70ern
+  - schrieb Kontast und **Lichtwerte** für Bürocomputer vor
+  - wurde von anderen EU-Ländern übernommen
+
+</div>
+
+<!--
+- schwarz + beige: 700, 720, 750
+
+-->
+
+---
+
+<!-- _header: Trivia: Beige und schwarze ThinkPads -->
+
+- IBM Deutschland sprach sich daher gegen schwarz aus
+- man dachte über **kieselgraue** Geräte nach, verwarf die Idee aber
+- Regelung lockerte sich später, sofern Handbuch-Hinweis existiert
+  - "Dieses Produkt ist nicht für den Bürogebrauch bestimmt"
+
+<div style="display:contents;" data-marpit-fragment>
+
+- Sapper wollte schwarze Gehäuse
+  - Unterschied zur Konkurrenz, **mystisches** Erscheinungsbild
+  - besserer **Kontrast** der frühen Farbdisplays
+- beendete Debatte geschickt
+  - ließ IBM-Chairman **John Akers** zwischen zwei Entwürfen wählen
+  - dieser wählte schwarz, Sapper machte sich in Boca Raton unbeliebt
+
+</div>
+
+<!--
+
+- Umfrage ergab
+  - Kund:innen kauften ThinkPads zu einem Drittel wegen des Designs
+
+-->
+
+---
+
+<!-- _header: Trivia: Rote Kontrastfarbe -->
+
+- Sapper nutzt rot gerne als Kontrastfarbe
+  - **Interaktionsflächen** können einfacher erkannt werden
+  - emotionale Konnotation
+- stritt sich lange mit IBMs Corporate Identity-Abteilung
+  - gaben an, rot sei für den **Not-Aus** der Mainframes reserviert
+  - wollten keine anderweitige Nutzung
+
+<div style="display:contents;" data-marpit-fragment>
+
+- Sappers designte daraufhin ein **magenta-farbenes** TrackPoint
+  - passte die Farbe iterativ an, ohne den Farbcode (**TP333**) zu ändern
+  - IBM bemerkte die Änderungen nicht vor der Produktion
+  - Farbe kam gut an, wurde mit edlen Sportwagen verglichen
+
+</div>
 
 ---
 
@@ -505,7 +685,7 @@ footer: ''
 | 800 | Modelle mit IBM PowerPC-CPU |
 | 1000 | **i Series**, von **Acer** produzierte Prosumer-Geräte |
 
-- dreistellige Nummer, an BMW angelehnt
+- dreistellige Nummer, an BMW-Modelle angelehnt
 - Produktionsreihenfolge geht **nicht** aus Nummerierung heraus
   - 345 erschien z.B. nach 350
 
@@ -513,14 +693,166 @@ footer: ''
 
 <!-- _header: Modellserien von 1991 bis 1999 -->
 
-TODO - Fotos
+<div class="container">
+
+<div class="col">
+
+![w:500 center](./imgs/240.jpg)
 
 ThinkPad 240
-ThinkPad 550BJ
-ThinkPad 570
-ThinkPad 600
-ThinkPad 701C
-ThinkPad 800
+
+</div>
+
+<div class="col">
+
+![w:550 center](./imgs/550bj.jpg)
+
+ThinkPad 550BJ mit Drucker
+
+</div>
+
+</div>
+
+<!--
+
+- 550BJ
+  - Intel 486er
+  - Monochromes STN-Display
+  - Bubble Jet-Drucker
+  - Colabo zwischen IBM Japan und Canon
+
+-->
+
+---
+
+<!-- _header: Modellserien von 1991 bis 1999 -->
+
+<div class="container">
+
+<div class="col">
+
+![w:550 center](./imgs/760el_modularity.jpg)
+
+Modularer Aufbau beim 760EL
+(1996)
+
+</div>
+
+<div class="col">
+
+![w:600 center](./imgs/760el_keyboard.jpg)
+
+Tastatur wird beim Öffnen angehoben
+
+</div>
+
+</div>
+
+---
+
+<!-- _header: Modellserien von 1991 bis 1999 -->
+
+<div class="container">
+
+<div class="col">
+
+![w:530 center](./imgs/701c.jpg)
+
+TrackWrite-Keyboard des 701C
+
+</div>
+
+<div class="col">
+
+![w:450 center](./imgs/820.jpg)
+
+ThinkPad 820 (1995)
+
+</div>
+
+</div>
+
+<!--
+
+- 701c
+  - Tastatur klappt sich beim Öffnen diagonal aus
+  - sehr ausgeklügelter Mechanismus
+  - Benchmark war: angenehmes Tippen auf dem knappen Tisch eines Flugzeugs
+  - erschien leider zu spät, war technisch dann bereits veraltet
+    - 486 statt Pentium 1
+  - begehrtes Sammlerobjekt
+- 800, 820, 850
+  - eins der seltensten ThinkPads überhaupt
+  - 3 PowerPC-ThinkPads von 1995 bis 1997 produziert
+  - IBMs Antwort auf den Trend von UNIX-Workstations?
+    - SCSI-Laufwerk
+  - Support für IBM AIX und Windows NT
+    - läuft natürlich auch mit Linux und BSD
+
+-->
+
+---
+
+<!-- _header: Trivia: ThinkPad als Mainframe-Konsole -->
+
+<div class="container">
+
+<div class="col">
+
+- Mainframes haben mindestens eine **HMC**
+  - dienen u.a. zum Starten und Steuern
+- werden i.d.R. selten benutzt
+  - Debugging, Troubleshooting
+
+<div style="display:contents;" data-marpit-fragment>
+
+- lange dienten **ThinkPads** als HMC
+- beliebte Sammler-Objekte
+  - optischer Bestzustand
+  - i.d.R. fehlen WLAN und Modem
+
+</div>
+
+</div>
+
+<div class="col40">
+
+![w:390 center](./imgs/hmc.jpg)
+
+</div>
+
+</div>
+
+<!--
+footer: HMC = **H**ardware **M**anagement **C**onsole
+-->
+
+---
+
+<!-- _header: Trivia: ThinkPad als Mainframe-Konsole -->
+<!--
+footer: ''
+-->
+
+<div class="container">
+
+<div class="col">
+
+![w:550 center](./imgs/hmc_380e_1.jpg)
+
+ThinkPad 380E (1998)
+
+</div>
+
+<div class="col">
+
+![w:550 center](./imgs/hmc_380e_2.jpg)
+
+IBM OS/2 mit Management-Anwendung
+
+</div>
+
+</div>
 
 ---
 
@@ -548,15 +880,74 @@ ThinkPad 800
 
 <!-- _header: Modellserien von 1999 bis 2008 -->
 
-TODO - Fotos
+<div class="container">
 
-ThinkPad T23
-ThinkPad A31p
-ThinkPad G40
-ThinkPad Z61p
-ThinkPad X61s
-ThinkPad S30
-ThinkPad i-Series + CD
+<div class="col">
+
+![w:450 center](./imgs/x40_and_dock.jpg)
+
+X40 in UltraBay (2004)
+
+</div>
+
+<div class="col">
+
+![w:580 center](./imgs/z61m.jpg)
+
+Z61m mit Titanium-Cover (2006)
+
+</div>
+
+</div>
+
+<!--
+
+- Z61m
+  - Titanium-Cover wiegt zusätzliche **400g**!
+
+-->
+
+---
+
+<!-- _header: Modellserien von 1999 bis 2008 -->
+
+<div class="container">
+
+<div class="col">
+
+![w:600 center](./imgs/i1500_cd.jpg)
+
+CD-Player im i-Series 1500
+
+</div>
+
+<div class="col">
+
+![w:600 center](./imgs/s30.jpg)
+
+Japanische Tastatur eines S30
+
+</div>
+
+</div>
+
+---
+
+<!-- _header: Modellserien von 1999 bis 2008 -->
+
+![w:1200 center](./imgs/g40.jpg)
+
+Schräge Gehäuseform des G40
+
+<!--
+
+- es gab nur drei G-ThinkPads (G40, G41 und G50)
+  - G40 hat einen **Desktop** (!!!) Pentium 4
+- mit Acer co-produziert
+- als günstige Office-Maschine konzipiert
+- eingestellt, weil es zu wenig Unterschiede zu anderen Serien gab
+
+-->
 
 ---
 
@@ -566,13 +957,159 @@ ThinkPad i-Series + CD
 
 <div class="col">
 
-- TODO
+- wechselbarer Laufwerksschacht
+  - 1993 - 2014
+- kann i.d.R. im laufenden Betrieb gewechselt werden
+- für eine Vielzahl an **Modulen**
+  - Disketten und LS-/ZIP-Laufwerke
+  - optische Laufwerke
+  - zusätzlicher **Akku**
+  - weitere Festplatte
+  - RS232-/LPT-Adapter
 
 </div>
 
 <div class="col">
 
-![w:500 center](./imgs/ultrabay_antifa.png)
+![w:500 center](./imgs/ultrabay.jpg)
+
+R50 mit UltraBay-Laufwerk
+
+</div>
+
+</div>
+
+<!--
+
+- in Berufsschule gesichtet: **T61p** mit drei Akkus
+  - an der Hinterseite angebrachter
+  - UltraBay
+  - Unterschnall-Akku 
+
+-->
+
+---
+
+<!-- _header: UltraBay -->
+
+<div class="container">
+
+<div class="col">
+
+![w:550 center](./imgs/ultrabay_numpad.jpg)
+
+Numpad (22P7330)
+
+</div>
+
+<div class="col">
+
+![w:550 center](./imgs/ultrabay_serial_parallel.jpg)
+
+Serial and Parallel Port Adapter (40Y8121)
+
+</div>
+
+</div>
+
+---
+
+<!-- _header: UltraBay -->
+
+![w:600 center](./imgs/ultrabay_antifa.png)
+
+---
+
+<!-- _header: Trivia: UltraPort -->
+
+<div class="container">
+
+<div class="col">
+
+- proprietärer USB 1.1-Anschluss an der Bildschirmoberseite
+- rüstete optionale **Module** nach
+  - Bluetooth und Infrarot Adapter
+  - Webcam, Mikrofon
+  - CompactFlash-Kartenleser
+- kurzzeitig zwischen **2000** und **2003** verbaut
+  - A2x und A3x
+  - T2x
+  - X2x
+
+</div>
+
+<div class="col25">
+
+![w:330 center](./imgs/ultraport_x21.jpg)
+
+![w:330 center](./imgs/ultraport_pins.jpg)
+
+UltraPort an einem X21
+
+</div>
+
+</div>
+
+---
+
+<!-- _header: Trivia: UltraPort -->
+
+<div class="container">
+
+<div class="col">
+
+![w:330 center](./imgs/ultraport_t23.jpg)
+
+T23 mit Webcam
+
+</div>
+
+<div class="col">
+
+![w:330 center](./imgs/ultraport_mic.jpg)
+
+Mikrofon auf Ständer
+
+</div>
+
+<div class="col">
+
+![w:330 center](./imgs/ultraport_cf_reader.jpg)
+
+CF-Kartenleser
+
+</div>
+
+</div>
+
+<!--
+
+- wie der CF-Leser wohl auf dem Bildschirm montiert aussieht?
+- vielleicht inspirierte das ja Apple zur "Dynamic Island"... 🤡
+
+-->
+
+---
+
+<!-- _header: Fernab von Notebooks: IBM WorkPad -->
+
+<div class="container">
+
+<div class="col">
+
+- zwischen **1997** und **2001** angeboten
+- 9 umgelabelte **Palm** PDAs
+- technisch unverändert, lediglich andere Gehäusefarbe und Logo
+- **UltraBay**-Docking Station
+- wegen zu geringem Interesse eingestellt
+
+</div>
+
+<div class="col">
+
+![w:550 center](./imgs/ibm_workpad.png)
+
+IBM WorkPad (1997)
 
 </div>
 
@@ -586,14 +1123,17 @@ ThinkPad i-Series + CD
 
 <div class="col">
 
-- TODO
-- umgelabelte Palm PDAs
+![w:550 center](./imgs/ibm_workpads.jpg)
+
+IBM WorkPad und WorkPad 20X
 
 </div>
 
 <div class="col">
 
-![w:500 center](./imgs/ultrabay_antifa.png)
+![w:550 center](./imgs/workpad_cradle.jpg)
+
+Ultrabay Plus WorkPad c500 Cradle (27P5738)
 
 </div>
 
@@ -621,9 +1161,21 @@ ThinkPad i-Series + CD
 
 ---
 
-<!-- _header: Precision Keyboard -->
+<!-- _header: Klassische 7-Row (T400) und Precision Keyboard (T470p) -->
 
-TODO Fotos Vergleich
+![w:630 center](./imgs/t400_keyboard.jpg)
+
+![w:630 center](./imgs/t470p_keyboard.jpg)
+
+<!--
+
+- größere Tasten
+- mehr Freiräume zwischen den Tasten
+- 6 statt 7 Reihen
+- keine blauen Kontraste mehr
+- Sondertasten werden durch **Tastenkombinationen** ersetzt
+
+-->
 
 ---
 
@@ -643,12 +1195,25 @@ TODO Fotos Vergleich
 
 <!-- _header: Modellserien von 2008 - 2016 -->
 
-TODO - Fotos
+<div class="container">
 
-ThinkPad L412
-ThinkPad X301
-ThinkPad W701
-ThinkPad W701ds
+<div class="col">
+
+![w:550 center](./imgs/x300.png)
+
+X300 als "MacBook Air"-Killer
+
+</div>
+
+<div class="col">
+
+![w:550 center](./imgs/w701ds.jpg)
+
+W701ds mit 2 Bildschirmen
+
+</div>
+
+</div>
 
 ---
 
@@ -686,12 +1251,38 @@ ThinkPad W701ds
 
 <!-- _header: Modellserien seit 2016 -->
 
-TODO - Fotos
+<div class="container">
 
-ThinkPad Z13
-ThinkPad T14 G6
-ThinkPad X1 Nano
-ThinkPad P16
+<div class="col">
+
+![w:620 center](./imgs/z13_g2.jpg)
+
+Z13 G2 (2024)
+
+</div>
+
+<div class="col">
+
+![w:620 center](./imgs/x1_nano.jpg)
+
+X1 Nano (2021)
+
+</div>
+
+</div>
+
+<!--
+
+- Z13
+  - verzichtet auf zusätzliche Tasten im TouchPad
+  - sehr dünne Displayränder
+  - Kamera steht hervor und dient auch zur Öffnung
+- X1 Nano
+  - wiegt unter 1 kg
+  - Magnesium + Kohlefaser
+  - sehr kompakt robust
+
+-->
 
 ---
 
@@ -713,10 +1304,26 @@ Für einige der Jubiläen wurden besondere Modelle veröffentlicht:
 
 <!-- _header: Jubiläumsmodelle -->
 
-TODO - Fotos
+<div class="container">
 
-Reserve Edition
-X1C G10 30th
+<div class="col">
+
+![w:600 center](./imgs/reserve_edition.jpg)
+
+Reserve Edition (2007)
+
+</div>
+
+<div class="col">
+
+![w:600 center](./imgs/x1c_g10_30.jpg)
+
+X1C G10 30th (2022)
+
+</div>
+
+</div>
+
 
 ---
 
@@ -729,6 +1336,7 @@ X1C G10 30th
 - 2017 zum 25.Jubiläum veröffentlicht
 - basiert auf dem **T470**
 - klassische **7-Row Tastatur**
+- Glas-Touchpad
 - Logo in klassischen IBM-Farben
 - auf ca. 1.000 limitert, 300 für Deutschland
 
@@ -736,7 +1344,7 @@ X1C G10 30th
 
 <div class="col">
 
-![w:500](./imgs/cstan.jpg)
+![w:600 center](./imgs/t25.jpg)
 
 </div>
 
@@ -744,15 +1352,95 @@ X1C G10 30th
 
 ---
 
-<!-- _header: Pop- und Nerdkultur -->
+<!-- _header: ThinkPad T25 Anniversary Edition -->
 
-- TODO
+![bg](./imgs/t25_package.jpg)
+
+---
+
+<!-- _header: Pop- und Nerdkultur -->
+<!-- footer: 'CRU = **C**ustomer **R**eplaceable **U**nit; HMM = **H**ardware **M**aintenance **M**anual' -->
+
+- im Business-Umfeld wegen **Qualität** beliebt
+  - Reparierbarkeit hat durch dünnere Geräte etwas abgenommen
+  - viele Komponenten können vom User gewartet werden (**CRU**)
+    - Tastatur, SSD, RAM,...
+    - neuer **LPCAMM2**-RAM ermöglicht dünne Module und hohe Geschwindigkeit
+  - Wartungshandbücher frei verfügbar (**HMM**)
+
+<div style="display:contents;" data-marpit-fragment>
+
+- Bei Hacker:innen vor allem wegen gutem **Linux-Support** beliebt
+  - IBM sah schon früh den Mehrwert darin
+  - trifft vor allem auf  T-, P- und X-Geräte zu
+  - [Vortrag von **Mark Pearson** über Linux-Support (DebConf 22)](https://debconf22.debconf.org/talks/10-lenovo-linux-2022/)
+
+</div>
+
+<!--
+
+- Lenovo setzt sich zusammen mit Dell und anderen Herstellern gegen verlöteten RAM ein
+
+-->
+
+---
+
+<!-- _header: Pop- und Nerdkultur -->
+<!-- footer: '' -->
+
+- **Framework**-Notebooks sind inzwischen auch verbreitet
+  - Kritik an zwischenzeitlich verlötetem RAM
+  - Sperren für manche Komponenten (*z.B. WLAN*)
+  - Tastaturen leider kein Alleinstellungsmerkmal mehr wie früher
+
+<div style="display:contents;" data-marpit-fragment>
+
+- Sticker-Trend bei Notebook-Deckeln
+  - siehe auch [DevLids](https://www.devlids.com/)
+- **Memetische Relevanz**
+
+</div>
+
+<!--
+
+- WLAN Kartensperre aufgrund von Export- und Frequenzbeschränkungen
+
+-->
+
+---
+
+<!-- _header: Memetische Relevanz -->
+
+<div class="container">
+
+<div class="col">
+
+![w:400 center](./imgs/trackpoint_meme.jpg)
+
+</div>
+
+<div class="col">
+
+![w:700 center](./imgs/thinkpad_meme.jpg)
+
+</div>
+
+</div>
+
+---
+
+<!-- _header: Memetische Relevanz -->
+<!-- footer: Quelle: [Reddit](https://www.reddit.com/r/thinkpad/comments/112wxih/custom_boot_screen_on_my_p1_gen4/) -->
+
+![bg](./imgs/lenowo_hack.jpg)
+
+---
+
+<!-- _header: ThinkPads in Filmen und Serien -->
+<!-- footer: '' -->
+
 - Beispiele aus Filmen und Serien
-- Wieso so beliebt?
-- Immer noch so? Wie sieht es mit dem Framework aus?
-- verlöteter RAM, jetzt aber doch nicht mehr
-- Reparierbarkeit wieder höher
-- Tastaturen schlechter
+- TODO
 
 ---
 
@@ -764,12 +1452,31 @@ X1C G10 30th
 
 <!-- _header: Links -->
 
+- [ThinkPad-Forum](https://thinkpad-forum.de)
 - [ThinkPad-Wiki](https://thinkwiki.de)
 - [Internationales ThinkWiki](https://thinkwiki.org)
-- [Laptop Retrospective](https://laptopretrospective.com) (Content Creator)
 - [Notebookcheck-Beiträge zu ThinkPads](https://www.notebookcheck.com/News.37.0.html?ns_layout=3&hide_youtube=1&ns_show_num_normal=50&hide_external_reviews=1&tagArray%5B%5D=153&typeArray%5B%5D=4&typeArray%5B%5D=6&id=37)
+- [Laptop Retrospective](https://laptopretrospective.com) 🎥📖
+- [HK003 - ThinkPads](https://hacker-kultur.de/episodes/003.html) 🎙️
+- [BW099 - Ein denkwürdiges Notebook](https://besserwissen.podigee.io/99-thinkpad) 🎙️
 - [ThinkPad-Museum](https://thinkpad-museum.de)
 - [ThinkPad-Museum Datenbank](https://db.thinkpad-museum.de)
+
+---
+
+<!-- _header: Fachlektüre -->
+
+Zu diesen Themen gibt es passende **Bücher**:
+
+- How the ThinkPad Changed the World - and Is Shaping the Future
+  - Arimasa Naitoh, William J. Holstein
+- The Race for Perfect
+  - Steve Hamm, Story über das X300
+- ThinkPad: A Different Shade of Blue
+  - Deborah A. Dell, J. Gerry Purdy
+- **Richard Sapper, Edited by Jonathan Olivares**
+  - Hardcover-Buch mit vielen Fotos
+
 
 ---
 
@@ -790,7 +1497,7 @@ X1C G10 30th
 
 <div class="col">
 
-![w:500 center](./imgs/tpm_cover.png)
+![w:500 center](./imgs/tpm_cover.jpg)
 
 </div>
 
@@ -813,16 +1520,25 @@ X1C G10 30th
 - [ThinkPad 700](https://richardsapperdesign.com/products/thinkpad-700c/)
 - [Richard Sapper](https://en.wikipedia.org/wiki/Richard_Sapper)
 - [Artemide Tizio](https://commons.wikimedia.org/wiki/File:Lampe_Tizio_von_Richard_Sapper.jpg)
+- [ThinkPad + Tizio](https://www.reddit.com/r/thinkpad/comments/h16v1f/tizio_and_thinkpad_the_perfect_classical/)
 
 </div>
 
 <div class="col">
 
-- [ThinkPad + Tizio](https://www.reddit.com/r/thinkpad/comments/h16v1f/tizio_and_thinkpad_the_perfect_classical/)
 - [IBM Model 5140](https://richardsapperdesign.com/products/mod-5140/)
-- [Alice Rabbit Hole #1](https://imgflip.com/memegenerator/259273397/alice-rabbit-hole)
-- [Alice Rabbit Hole #2](https://imgflip.com/memegenerator/523146869/Alice-why)
-- [Alice Rabbit Hole #3](https://imgflip.com/memegenerator/282964484/Alice-in-Wonderland-facepalm)
+- [ThinkPad 820](https://kittenlabs.de/blog/2019/04/23/thinkpad-powerseries-820/)
+- [ThinkPad 850](https://en.wikipedia.org/wiki/IBM_ThinkPad_Power_Series)
+- [UltraBay](https://thinkwiki.de/UltraBay)
+- [UltraBay Serial/Parallel](http://www.ymmfa.com/read-gktid-27003.html)
+- [UltraBay WorkPad Cradle](https://www.thinkwiki.org/wiki/Ultrabay_Plus_WorkPad_c500_Cradle)
+- [UltraPort](https://www.lenovoblog.cz/2019/02/ibm-thinkpad-ultraport-milenialni-konektor-pro-pripojeni-ruznorodeho-prislusenstvi.html)
+- [ThinkPad HMC](https://www.reddit.com/r/thinkpad/comments/19d7nhd/classic_thinkpads_were_installed_in_ibm_mainframes/)
+- [W701ds](https://thinkwiki.de/W701)
+- [X1 Nano](https://www.notebookcheck.com/Lenovo-ThinkPad-X1-Nano-Laptop-im-Test-Business-Subnotebook-mit-LTE-wiegt-noch-nicht-einmal-1-kg.517236.0.html)
+- [Z13 G2](https://www.notebookcheck.com/ThinkPad-Z13-Gen-2-Laptop-im-Test-Lenovos-Antwort-auf-das-Dell-XPS-13.795442.0.html)
+- [Reserve Edition](https://thinkwiki.de/X61)
+- [X1 Carbon G10 30th](https://www.notebookcheck.com/Test-Lenovo-ThinkPad-X1-Carbon-G10-30th-Anniversary-Laptop-OLED-Edition-mit-Ausdauer-Problem.673951.0.html)
 
 </div>
 
