@@ -1,2 +1,5 @@
 ---
 lang: en-US
+allowLocalFiles: true
+theme: ./style/think.css
+inputDir: slides/
