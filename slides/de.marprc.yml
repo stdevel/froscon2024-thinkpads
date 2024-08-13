@@ -1,6 +1,6 @@
 ---
 allowLocalFiles: true
-theme: ./style/think.css
+theme: ../style/think.css
 inputDir: ./
 html: true
 lang: de-DE
