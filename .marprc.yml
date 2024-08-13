@@ -3,6 +3,6 @@ allowLocalFiles: true
 theme: ./style/think.css
 inputDir: slides/
 html: true
-lang: en-US
+lang: de-DE
 title: ThinkPads - Geschichte und Nerdkultur
 url: https://thinkpad-museum.de
