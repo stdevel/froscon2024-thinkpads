@@ -21,6 +21,9 @@ theme: think
     .col40{
         width: 40%;
     }
+    .smol{
+      font-size: 60%
+    }
 </style>
 
 <!-- _class: lead -->
@@ -1436,10 +1439,36 @@ X1C G10 30th (2022)
 
 ---
 
-<!-- _header: ThinkPads in Filmen und Serien -->
+<!-- _header: ThinkPad-Mods aus der Maker-Szene -->
 <!-- footer: '' -->
 
-- Beispiele aus Filmen und Serien
+Es gibt zahlreiche Community-Mods, die die Geräte erweitern:
+
+- USB-C PD-Mods, z.B. [für T41/T43](https://kittenlabs.de/projects/usb-c-mods/t41-usb-c/)
+- [BIOS-Mods](https://www.thinkwiki.org/wiki/Custom_BIOS)
+  - z.B. um Limitierungen zu entfernen
+  - [Libreboot](https://libreboot.org) und [Coreboot](https://www.coreboot.org/)
+- [NVMe BIOS Boot Option](https://kittenlabs.de/nvmeboot/)
+
+<div style="display:contents;" data-marpit-fragment>
+
+- [Frankenpads](https://thinkwiki.de/Frankenpad)
+  - stark angepasste ThinkPads, mit neueren Komponenten, etc.
+- 51nb-Mods mit komplett überarbeiteten Mainboards
+  - [X62 (X61)](https://www.notebookcheck.com/Test-Lenovo-IBM-Thinkpad-51nb-X62-Custom-Laptop.212686.0.html), [X210 (X200/201)](http://www.cnmod.cn/x210/), [X330 (X230)](https://www.xyte.ch/mods/x230/), [T700 (T60/61)](https://www.xyte.ch/t700-crowdfunding/)
+
+</div>
+
+<!--
+
+- 51nb-Mods sind super interessant, aber recht teuer (da Kleinstauflage)
+
+-->
+
+---
+
+<!-- _header: ThinkPads in Filmen und Serien -->
+
 - TODO
 
 ---
@@ -1507,6 +1536,8 @@ Zu diesen Themen gibt es passende **Bücher**:
 
 <!-- _header: Bilderquellen -->
 
+<div class="smol">
+
 <div class="container">
 
 <div class="col">
@@ -1520,25 +1551,26 @@ Zu diesen Themen gibt es passende **Bücher**:
 - [ThinkPad 700](https://richardsapperdesign.com/products/thinkpad-700c/)
 - [Richard Sapper](https://en.wikipedia.org/wiki/Richard_Sapper)
 - [Artemide Tizio](https://commons.wikimedia.org/wiki/File:Lampe_Tizio_von_Richard_Sapper.jpg)
-- [ThinkPad + Tizio](https://www.reddit.com/r/thinkpad/comments/h16v1f/tizio_and_thinkpad_the_perfect_classical/)
-
-</div>
-
-<div class="col">
-
 - [IBM Model 5140](https://richardsapperdesign.com/products/mod-5140/)
-- [ThinkPad 820](https://kittenlabs.de/blog/2019/04/23/thinkpad-powerseries-820/)
+- [ThinkPad 820 (Sarah Mädel / manawyrm)](https://photos.google.com/share/AF1QipO52rP1VsA7X3W-jMP5pSI6szBKNUtcz8vKa7rpMi-lc8GhH_qakCFNGeEkBe6Ydw?key=M3RCcGM3X1JBN3o3cDNlLXNtcUJUaTF5SW9xbkZn)
 - [ThinkPad 850](https://en.wikipedia.org/wiki/IBM_ThinkPad_Power_Series)
 - [UltraBay](https://thinkwiki.de/UltraBay)
 - [UltraBay Serial/Parallel](http://www.ymmfa.com/read-gktid-27003.html)
 - [UltraBay WorkPad Cradle](https://www.thinkwiki.org/wiki/Ultrabay_Plus_WorkPad_c500_Cradle)
 - [UltraPort](https://www.lenovoblog.cz/2019/02/ibm-thinkpad-ultraport-milenialni-konektor-pro-pripojeni-ruznorodeho-prislusenstvi.html)
+
+</div>
+
+<div class="col">
+
 - [ThinkPad HMC](https://www.reddit.com/r/thinkpad/comments/19d7nhd/classic_thinkpads_were_installed_in_ibm_mainframes/)
 - [W701ds](https://thinkwiki.de/W701)
 - [X1 Nano](https://www.notebookcheck.com/Lenovo-ThinkPad-X1-Nano-Laptop-im-Test-Business-Subnotebook-mit-LTE-wiegt-noch-nicht-einmal-1-kg.517236.0.html)
 - [Z13 G2](https://www.notebookcheck.com/ThinkPad-Z13-Gen-2-Laptop-im-Test-Lenovos-Antwort-auf-das-Dell-XPS-13.795442.0.html)
 - [Reserve Edition](https://thinkwiki.de/X61)
 - [X1 Carbon G10 30th](https://www.notebookcheck.com/Test-Lenovo-ThinkPad-X1-Carbon-G10-30th-Anniversary-Laptop-OLED-Edition-mit-Ausdauer-Problem.673951.0.html)
+
+</div>
 
 </div>
 
