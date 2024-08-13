@@ -1490,6 +1490,12 @@ Eine Auswahl:
 
 Quellen: Reddit und [Product Placement Blog](https://productplacementblog.com/tag/thinkpad/)
 
+<!--
+
+- Homeland T430, T530/W530 mit Windows Vista-Stickern auf dem Deckel
+
+-->
+
 ---
 
 <!-- _header: ThinkPad 760 (1995) in The Matrix (1999) -->
