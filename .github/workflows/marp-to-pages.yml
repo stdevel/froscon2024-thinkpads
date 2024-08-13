@@ -13,7 +13,7 @@ jobs:
       - name: Convert Markdown into HTML and PDF (de)
         uses: KoharaKazuya/marp-cli-action@v3
         with:
-          config-file: ./.marprc.yml
+          config-file: ./slides/de.marprc.yml
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
