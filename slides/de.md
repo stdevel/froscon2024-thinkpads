@@ -1469,7 +1469,35 @@ Es gibt zahlreiche Community-Mods, die die Geräte erweitern:
 
 <!-- _header: ThinkPads in Filmen und Serien -->
 
-- TODO
+Eine Auswahl:
+
+  - [The Matrix (1999)](https://www.reddit.com/r/thinkpad/comments/c0vvs5/thinkpad_760_series_spotted_in_the_matrix_1999/)
+- [The Gentleman (2019)](https://www.reddit.com/r/thinkpad/comments/kyfd2g/thinkpads_in_movies_the_gentlemen_2019/)
+- [Knives Out (2019)](https://productplacementblog.com/movies/lenovo-thinkpad-t61-laptop-used-by-christopher-plummer-as-harlan-thrombey-in-knives-out-2019/)
+- [Black Widow (2021)](https://www.reddit.com/r/thinkpad/comments/omljet/thinkpads_in_movies_black_widow_2021/)
+- Homeland (Staffel 1 und 5)
+- Law and Order: Special Victims Unit
+- Law and Order: Criminal Intent
+
+Quellen: Reddit und [Product Placement Blog](https://productplacementblog.com/tag/thinkpad/)
+
+---
+
+<!-- _header: ThinkPad 760 (1995) in The Matrix (1999) -->
+
+![bg](./imgs/the_matrix.jpg)
+
+---
+
+<!-- _header: ThinkPad T61 in Knives Out (2019) -->
+
+![bg](./imgs/knives_out.jpg)
+
+---
+
+<!-- _header: ThinkPad 750 (1993) oder 360 (1994) in Black Widow (2021) -->
+
+![bg](./imgs/black_widow.jpg)
 
 ---
 
