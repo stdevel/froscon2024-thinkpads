@@ -322,29 +322,6 @@ Transport der Sammlung
 
 <!-- _header: IBM - ein Kurzprofil -->
 
-- **195x/196x**: erste Computer mit Magnetplatten und Trommelspeicher
-* **1962** - erste elektrische Schreibmaschine mit Kugelkopf
-* **1965** / **1970** - neue Großrechner-Generationen S/360 und S/370
-* **1981** - IBM Personal Computer
-* **1984** - erster tragbarer Computer (*Portable PC 5155*) erscheint
-  - im Zugzwang durch zuvor erschienenen Compaq Portable
-* **1991** - erster Laptop (*PS/2 Model L40 SX*) erscheint
-* **1992** bis **2004** - ThinkPads
-* **2005** - Verkauf der PC-Sparte an Lenovo
-
-<!--
-
-- PC-Geschäft war nicht mehr profitabel genug für IBM
-- großes Angebot, Kund:innen wollen keine hohen Preise für PCs ausgeben
-  - Produktionskosten zu hoch für IBM um noch profitabel zu bleiben
-- 2014 wurde auch das Servergeschäft an Lenovo verkauft
-
--->
-
----
-
-<!-- _header: IBM - ein Kurzprofil -->
-
 <div class="container">
 
 <div class="col">
@@ -445,8 +422,6 @@ Erstes ThinkPad
 
 <div style="display:contents;" data-marpit-fragment>
 
-- Luis Hernandex
-  - ThinkPad-Produktmanager
 - Tom Hardy
   - IBM-Industriedesigner
 - George Karidis
@@ -491,7 +466,7 @@ Erstes ThinkPad
 - bekannt für zahlreiche innovative Designs, u.a.
   - Artemide Tizio-Tischlampe
   - Lorenz Static-Tischuhr
-  - Alessi-Küchgeräte
+  - Alessi-Küchengeräte
   - ...
 
 </div>
@@ -690,10 +665,10 @@ footer: ''
 
 | Serie | Beschreibung |
 | ----- | ------------ |
-| 200 | Besonders kompakte Subnotebooks, 7.7" bis 10.4" |
+| 200 | Besonders kompakte Subnotebooks, bis 10.4" |
 | 300 | Einstiegsmodelle, exakt **DIN A4** groß |
 | 500 | Ultraportable Geräte ohne Floppy/CD |
-| 600 / 700 | Oberklasse, hochwertig und sehr stabil |
+| 600 / 700 | Oberklasse, hochwertig und stabil |
 | 800 | Modelle mit IBM PowerPC-CPU |
 | 1000 | **i Series**, von **Acer** produzierte Prosumer-Geräte |
 
@@ -869,23 +844,23 @@ IBM OS/2 mit Management-Anwendung
 
 <!-- _header: Modellserien von 1999 bis 2008 -->
 
-- Beschränkung auf Serien-Buchstaben und zweistellige Nummer beginnend mit **20**
-  - auch diese gibt keinen Rückschluss auf den Produktionszeitraum
-  - X32 erschien z.B. nach dem X40
-
----
-
-<!-- _header: Modellserien von 1999 bis 2008 -->
-
 | Serie | Beschreibung |
 | ----- | ------------ |
 | T | Bekannteste Serie, ging aus 600/700 hervor |
 | A | Schwere Desktop-Replacements, ging aus 300 hervor |
 | R | günstiger als T-Serie, Kunststoff statt Gummierung |
 | G | Günstige Desktop-Replacements, von **Acer** gefertigt |
-| Z | kurz produzierte Multimedia-Serie, Widescreen-Tests, wurde 2022 neu aufgelegt |
-| X | Hochwertige Ultraportables und Convertible Tablets, ging aus 200/500 hervor |
+| Z | kurz produzierte Multimedia-Serie, Widescreen-Tests |
+| X | Ultraportables und Convertibles, ging aus 200/500 hervor |
 | S | besonders kleine Ultaportables mit 10.4", **Asia-only** |
+
+<!--
+
+- Beschränkung auf Serien-Buchstaben und zweistellige Nummer beginnend mit **20**
+  - auch diese gibt keinen Rückschluss auf den Produktionszeitraum
+  - X32 erschien z.B. nach dem X40
+
+-->
 
 ---
 
@@ -1023,13 +998,7 @@ Serial and Parallel Port Adapter (40Y8121)
 
 </div>
 
----
-
-<!-- _header: UltraBay -->
-
-![w:600 center](./imgs/ultrabay_antifa.png)
-
----
+--- 
 
 <!-- _header: Trivia: UltraPort -->
 
@@ -1231,19 +1200,6 @@ W701ds mit 2 Bildschirmen
 
 <!-- _header: Modellserien seit 2016 -->
 
-- Experiment mit zweistellige Bezeichnungen bei P-Serie
-  - erste Ziffer steht für die **Displaygröße** (*z.B. P50 -> 15"*)
-  - zweite Ziffer steht für die **Generation** (*z.B. P52 -> 3.Generation*)
-- einfacheres Schema ab 2020
-  - Ziffern stehen für Displaygröße (*z.B. T14 -> 14"*)
-  - anschließend folgt die Generation als eigenes Wort (*z.B. Gen 2, Gen 3*)
-
----
-
-<!-- _header: Modellserien seit 2016 -->
-
-Änderungen gegenüber früheren Serien:
-
 | Serie | Beschreibung |
 | ----- | ------------ |
 | T | 14-16", optional nun auch **AMD** sowie **ARM** (T14s G6) |
@@ -1251,7 +1207,11 @@ W701ds mit 2 Bildschirmen
 | X1 | UltraBooks und testweise ein Ultraportable (X1 Nano) |
 | X13 | 13"-Geräte - **X13s** ist das erste ARM-Gerät |
 | P | Workstations mit neuen Gehäusen, ersetzt W-Serie |
-| Z | Premium-Qualität mit modernem Design, dünne Displayränder, Aluminium und Kunstleder, **ausschließlich AMD** |
+| Z | modernes Design, dünne Displayränder, **AMD-only** |
+
+- einfacheres Schema ab 2020
+  - Ziffern stehen für Displaygröße (*z.B. T14 -> 14"*)
+  - anschließend folgt die Generation als eigenes Wort (*z.B. Gen 2*)
 
 <!--
 
@@ -1298,7 +1258,7 @@ X1 Nano (2021)
 
 ---
 
-<!-- _header: Jubiläumsmodelle -->
+<!-- _header: Trivia: Jubiläumsmodelle -->
 
 Für einige der Jubiläen wurden besondere Modelle veröffentlicht:
 
@@ -1314,7 +1274,7 @@ Für einige der Jubiläen wurden besondere Modelle veröffentlicht:
 
 ---
 
-<!-- _header: Jubiläumsmodelle -->
+<!-- _header: Trivia: Jubiläumsmodelle -->
 
 <div class="container">
 
@@ -1495,12 +1455,6 @@ Quellen: Reddit und [Product Placement Blog](https://productplacementblog.com/ta
 - Homeland T430, T530/W530 mit Windows Vista-Stickern auf dem Deckel
 
 -->
-
----
-
-<!-- _header: ThinkPad 760 (1995) in The Matrix (1999) -->
-
-![bg](./imgs/the_matrix.jpg)
 
 ---
 
