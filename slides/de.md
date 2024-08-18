@@ -202,7 +202,7 @@ Transport der Sammlung
 <!-- _header: IBM - ein Kurzprofil -->
 
 - geht auf **Tabulating Machine Company** zurück
-  - **1986** von **Herman Hollerith** gegründet
+  - **1886** von **Herman Hollerith** gegründet
   - Erfinder des Hollerith-**Lochkartenverfahrens**
   - speziell für USA-Volkszählung 1890 entwickelt
 
