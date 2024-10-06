@@ -208,7 +208,7 @@ Transport der Sammlung
 
 <div style="display:contents;" data-marpit-fragment>
 
-- **1911** als **Computing-Tabulating-Recording Company (CTR**) gegründet
+- **1911** als **Computing-Tabulating-Recording Company (CTR)** gegründet
 - kombinierte drei Unternehmen
     - **C**omputing Scale Corporation
     - **T**abulating Machine Company (Hollerith)
@@ -981,7 +981,7 @@ R50 mit UltraBay-Laufwerk
 - in Berufsschule gesichtet: **T61p** mit drei Akkus
   - an der Hinterseite angebrachter
   - UltraBay
-  - Unterschnall-Akku 
+  - Unterschnall-Akku
 
 -->
 
@@ -1137,7 +1137,7 @@ Ultrabay Plus WorkPad c500 Cradle (27P5738)
 
 ---
 
-<!-- _header: Modellserien von 2008 - 2016 -->
+<!-- _header: Modellserien von 2008 bis 2016 -->
 <!-- footer: '' -->
 
 - Modellbezeichnung nach dem Buchstaben nun dreistellig
@@ -1176,7 +1176,7 @@ Ultrabay Plus WorkPad c500 Cradle (27P5738)
 
 ---
 
-<!-- _header: Modellserien von 2008 - 2016 -->
+<!-- _header: Modellserien von 2008 bis 2016 -->
 
 Änderungen gegenüber früheren Serien:
 
@@ -1190,7 +1190,7 @@ Ultrabay Plus WorkPad c500 Cradle (27P5738)
 
 ---
 
-<!-- _header: Modellserien von 2008 - 2016 -->
+<!-- _header: Modellserien von 2008 bis 2016 -->
 <!-- footer: '[[22]](https://youtube.com/watch?v=_hnOCUkbix0), [[23]](https://thinkwiki.de/W701)' -->
 
 <div class="container">
@@ -1594,7 +1594,7 @@ Zu diesen Themen gibt es passende **Bücher**:
 - [X1 Nano](https://www.notebookcheck.com/Lenovo-ThinkPad-X1-Nano-Laptop-im-Test-Business-Subnotebook-mit-LTE-wiegt-noch-nicht-einmal-1-kg.517236.0.html)
 - [Reserve Edition](https://thinkwiki.de/X61)
 - [X1 Carbon G10 30th](https://www.notebookcheck.com/Test-Lenovo-ThinkPad-X1-Carbon-G10-30th-Anniversary-Laptop-OLED-Edition-mit-Ausdauer-Problem.673951.0.html)
-- [Lenowo BIOS logo](https://www.reddit.com/r/thinkpad/comments/112wxih/custom_boot_screen_on_my_p1_gen4/)
+- [Lenowo BIOS-Logo](https://www.reddit.com/r/thinkpad/comments/112wxih/custom_boot_screen_on_my_p1_gen4/)
 - [Knives Out](https://productplacementblog.com/movies/lenovo-thinkpad-t61-laptop-used-by-christopher-plummer-as-harlan-thrombey-in-knives-out-2019/)
 - [Black Widow](https://www.reddit.com/r/thinkpad/comments/omljet/thinkpads_in_movies_black_widow_2021)
 
