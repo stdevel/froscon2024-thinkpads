@@ -225,6 +225,7 @@ Transport der Sammlung
 ---
 
 <!-- _header: IBM - ein Kurzprofil -->
+<!-- footer: '[[1]](https://de.wikipedia.org/wiki/IBM)' -->
 
 <div class="container">
 
@@ -253,6 +254,7 @@ Transport der Sammlung
 ---
 
 <!-- _header: Thomas J. Watson Sr. -->
+<!-- footer: '[[2]](https://en.wikipedia.org/wiki/Thomas_J._Watson)' -->
 
 <div class="container">
 
@@ -291,6 +293,7 @@ Transport der Sammlung
 ---
 
 <!-- _header: Trivia: THINK -->
+<!-- footer: '[[3]](https://en.wikipedia.org/wiki/File:The_%22Think%22_sign_from_Spaceship_Earth_at_EPCOT_Center.jpg), [[4]](https://upload.wikimedia.org/wikipedia/commons/8/8a/Original_IBM_ThinkPad.jpg)' -->
 
 <div class="container">
 
@@ -321,6 +324,7 @@ Transport der Sammlung
 ---
 
 <!-- _header: IBM - ein Kurzprofil -->
+<!-- footer: '[[5]](https://en.wikipedia.org/wiki/IBM_Portable_Personal_Computer)' -->
 
 <div class="container">
 
@@ -361,6 +365,7 @@ Erster tragbarer Computer
 ---
 
 <!-- _header: IBM - ein Kurzprofil -->
+<!-- footer: '[[6]](https://en.wikipedia.org/wiki/IBM_PS/2_Model_L40_SX), [[7]](https://richardsapperdesign.com/products/thinkpad-700c/)' -->
 
 <div class="container">
 
@@ -401,6 +406,7 @@ Erstes ThinkPad
 ---
 
 <!-- _header: Wichtige Personen im ThinkPad-Kosmos -->
+<!-- footer: '' -->
 
 <div class="container">
 
@@ -439,7 +445,7 @@ Erstes ThinkPad
 ---
 
 <!-- _header: Trivia: Unterschiedliche TrackPoint-Typen -->
-<!-- footer: Quelle: [Reddit](https://www.reddit.com/r/thinkpad/comments/h16v1f/tizio_and_thinkpad_the_perfect_classical/#lightbox) -->
+<!-- footer: '[[8]](https://www.reddit.com/r/thinkpad/comments/h16v1f/tizio_and_thinkpad_the_perfect_classical)' -->
 
 ![w:1150 center](./imgs/trackpoints.jpg)
 
@@ -454,7 +460,7 @@ Erstes ThinkPad
 ---
 
 <!-- _header: Richard Sapper -->
-<!-- footer: '' -->
+<!-- footer: '[[9]](https://en.wikipedia.org/wiki/Richard_Sapper)' -->
 
 <div class="container">
 
@@ -482,12 +488,13 @@ Erstes ThinkPad
 ---
 
 <!-- _header: Richard Sapper -->
+<!-- footer: '[[10]](https://commons.wikimedia.org/wiki/File:Lampe_Tizio_von_Richard_Sapper.jpg), [[11]](https://richardsapperdesign.com/products/static/)' -->
 
 <div class="container">
 
 <div class="col">
 
-![w:500 center](./imgs/artemide_tizio.jpg)
+![w:450 center](./imgs/artemide_tizio.jpg)
 
 Artemide Tizio und Lorenz Static
 
@@ -511,7 +518,7 @@ Artemide Tizio und Lorenz Static
 ---
 
 <!--
-footer: Quelle: [Reddit](https://www.reddit.com/r/thinkpad/comments/h16v1f/tizio_and_thinkpad_the_perfect_classical/#lightbox)
+footer: '[[12]](https://www.reddit.com/r/thinkpad/comments/h16v1f/tizio_and_thinkpad_the_perfect_classical)'
 -->
 
 ![bg](./imgs/tizio_thinkpad.jpg)
@@ -526,7 +533,7 @@ footer: Quelle: [Reddit](https://www.reddit.com/r/thinkpad/comments/h16v1f/tizio
 
 <!--
 _header: Richard Sapper
-footer: ''
+footer: '[[9]](https://en.wikipedia.org/wiki/Richard_Sapper)'
 -->
 
 <div class="container">
@@ -552,6 +559,7 @@ footer: ''
 ---
 
 <!-- _header: IBM PC Convertible Model 5140 (1986) -->
+<!-- footer: '[[13]](https://richardsapperdesign.com/products/mod-5140/)' -->
 
 <div class="container">
 
@@ -584,6 +592,7 @@ footer: ''
 ---
 
 <!-- _header: Trivia: Beige und schwarze ThinkPads -->
+<!-- footer: '' -->
 
 - frühere IBM-Geräte hatten eine **beige** Farbe
   - z.B. IBM PC, Convertible, PS/2 Model L40 SX,...
@@ -679,12 +688,13 @@ footer: ''
 ---
 
 <!-- _header: Modellserien von 1991 bis 1999 -->
+<!-- footer: '[[14]](https://thinkwiki.de/Datei:550BJ.jpg)' -->
 
 <div class="container">
 
 <div class="col">
 
-![w:500 center](./imgs/240.jpg)
+![w:480 center](./imgs/240.jpg)
 
 ThinkPad 240
 
@@ -713,6 +723,7 @@ ThinkPad 550BJ mit Drucker
 ---
 
 <!-- _header: Details des 760EL (1996) -->
+<!-- footer: '' -->
 
 <div class="container">
 
@@ -737,12 +748,13 @@ Tastatur wird beim Öffnen angehoben
 ---
 
 <!-- _header: Modellserien von 1991 bis 1999 -->
+<!-- footer: '[[15]](https://photos.google.com/share/AF1QipO52rP1VsA7X3W-jMP5pSI6szBKNUtcz8vKa7rpMi-lc8GhH_qakCFNGeEkBe6Ydw?key=M3RCcGM3X1JBN3o3cDNlLXNtcUJUaTF5SW9xbkZn)' -->
 
 <div class="container">
 
 <div class="col">
 
-![w:530 center](./imgs/701c.jpg)
+![w:500 center](./imgs/701c.jpg)
 
 TrackWrite-Keyboard des 701C
 
@@ -779,7 +791,8 @@ ThinkPad 820 (1995)
 
 ---
 
-<!-- _header: Trivia: ThinkPad als Mainframe-Konsole -->
+<!-- _header: 'Trivia: ThinkPad als Mainframe-Konsole' -->
+<!-- footer: '[[16]](https://commons.wikimedia.org/wiki/File:IBM_S-390_Parallel_Enterprise_Server-12-1998-gje.jpg), HMC = **H**ardware **M**anagement **C**onsole' -->
 
 <div class="container">
 
@@ -809,15 +822,11 @@ ThinkPad 820 (1995)
 
 </div>
 
-<!--
-footer: HMC = **H**ardware **M**anagement **C**onsole
--->
-
 ---
 
 <!-- _header: Trivia: ThinkPad als Mainframe-Konsole -->
 <!--
-footer: ''
+footer: '[[17]](https://www.reddit.com/r/thinkpad/comments/19d7nhd/classic_thinkpads_were_installed_in_ibm_mainframes/)'
 -->
 
 <div class="container">
@@ -843,6 +852,7 @@ IBM OS/2 mit Management-Anwendung
 ---
 
 <!-- _header: Modellserien von 1999 bis 2008 -->
+<!-- footer: '' -->
 
 | Serie | Beschreibung |
 | ----- | ------------ |
@@ -938,6 +948,7 @@ Schräge Gehäuseform des G40
 ---
 
 <!-- _header: UltraBay -->
+<!-- footer: '[[18]](https://thinkwiki.de/UltraBay)' -->
 
 <div class="container">
 
@@ -977,6 +988,7 @@ R50 mit UltraBay-Laufwerk
 ---
 
 <!-- _header: UltraBay -->
+<!-- footer: '[[18]](https://thinkwiki.de/UltraBay), [[19]](http://www.ymmfa.com/read-gktid-27003.html)' -->
 
 <div class="container">
 
@@ -1001,6 +1013,7 @@ Serial and Parallel Port Adapter (40Y8121)
 --- 
 
 <!-- _header: Trivia: UltraPort -->
+<!-- footer: '[[20]](https://www.lenovoblog.cz/2019/02/ibm-thinkpad-ultraport-milenialni-konektor-pro-pripojeni-ruznorodeho-prislusenstvi.html)' -->
 
 <div class="container">
 
@@ -1072,6 +1085,7 @@ CF-Kartenleser
 ---
 
 <!-- _header: Fernab von Notebooks: IBM WorkPad -->
+<!-- footer: '' -->
 
 <div class="container">
 
@@ -1099,6 +1113,7 @@ IBM WorkPad (1997)
 ---
 
 <!-- _header: Fernab von Notebooks: IBM WorkPad -->
+<!-- footer: '[[21]](https://www.thinkwiki.org/wiki/Ultrabay_Plus_WorkPad_c500_Cradle)' -->
 
 <div class="container">
 
@@ -1123,6 +1138,7 @@ Ultrabay Plus WorkPad c500 Cradle (27P5738)
 ---
 
 <!-- _header: Modellserien von 2008 - 2016 -->
+<!-- footer: '' -->
 
 - Modellbezeichnung nach dem Buchstaben nun dreistellig
 - beinhaltet nun auch die **Bildschirmgröße** (*erste Ziffer nach dem Buchstaben*):
@@ -1175,6 +1191,7 @@ Ultrabay Plus WorkPad c500 Cradle (27P5738)
 ---
 
 <!-- _header: Modellserien von 2008 - 2016 -->
+<!-- footer: '[[22]](https://youtube.com/watch?v=_hnOCUkbix0), [[23]](https://thinkwiki.de/W701)' -->
 
 <div class="container">
 
@@ -1199,6 +1216,7 @@ W701ds mit 2 Bildschirmen
 ---
 
 <!-- _header: Modellserien seit 2016 -->
+<!-- footer: '' -->
 
 | Serie | Beschreibung |
 | ----- | ------------ |
@@ -1222,12 +1240,13 @@ W701ds mit 2 Bildschirmen
 ---
 
 <!-- _header: Modellserien seit 2016 -->
+<!-- footer: '[[24]](https://www.notebookcheck.com/ThinkPad-Z13-Gen-2-Laptop-im-Test-Lenovos-Antwort-auf-das-Dell-XPS-13.795442.0.html), [[25]](https://www.notebookcheck.com/Lenovo-ThinkPad-X1-Nano-Laptop-im-Test-Business-Subnotebook-mit-LTE-wiegt-noch-nicht-einmal-1-kg.517236.0.html)' -->
 
 <div class="container">
 
 <div class="col">
 
-![w:620 center](./imgs/z13_g2.jpg)
+![w:610 center](./imgs/z13_g2.jpg)
 
 Z13 G2 (2024)
 
@@ -1235,7 +1254,7 @@ Z13 G2 (2024)
 
 <div class="col">
 
-![w:620 center](./imgs/x1_nano.jpg)
+![w:610 center](./imgs/x1_nano.jpg)
 
 X1 Nano (2021)
 
@@ -1258,7 +1277,8 @@ X1 Nano (2021)
 
 ---
 
-<!-- _header: Trivia: Jubiläumsmodelle -->
+<!-- _header: 'Trivia: Jubiläumsmodelle' -->
+<!-- footer: '' -->
 
 Für einige der Jubiläen wurden besondere Modelle veröffentlicht:
 
@@ -1274,7 +1294,8 @@ Für einige der Jubiläen wurden besondere Modelle veröffentlicht:
 
 ---
 
-<!-- _header: Trivia: Jubiläumsmodelle -->
+<!-- _header: 'Trivia: Jubiläumsmodelle' -->
+<!-- footer: '[[26]](https://thinkwiki.de/X61), [[27]](https://www.notebookcheck.com/Test-Lenovo-ThinkPad-X1-Carbon-G10-30th-Anniversary-Laptop-OLED-Edition-mit-Ausdauer-Problem.673951.0.html)' -->
 
 <div class="container">
 
@@ -1300,6 +1321,7 @@ X1C G10 30th (2022)
 ---
 
 <!-- _header: ThinkPad T25 Anniversary Edition -->
+<!-- footer: '' -->
 
 <div class="container">
 
@@ -1402,7 +1424,7 @@ X1C G10 30th (2022)
 ---
 
 <!-- _header: Memetische Relevanz -->
-<!-- footer: Quelle: [Reddit](https://www.reddit.com/r/thinkpad/comments/112wxih/custom_boot_screen_on_my_p1_gen4/) -->
+<!-- footer: '[[28]](https://www.reddit.com/r/thinkpad/comments/112wxih/custom_boot_screen_on_my_p1_gen4/)' -->
 
 ![bg](./imgs/lenowo_hack.jpg)
 
@@ -1459,18 +1481,21 @@ Quellen: Reddit und [Product Placement Blog](https://productplacementblog.com/ta
 ---
 
 <!-- _header: ThinkPad T61 in Knives Out (2019) -->
+<!-- footer: '[[29]](https://productplacementblog.com/movies/lenovo-thinkpad-t61-laptop-used-by-christopher-plummer-as-harlan-thrombey-in-knives-out-2019/)' -->
 
 ![bg](./imgs/knives_out.jpg)
 
 ---
 
 <!-- _header: ThinkPad 750 (1993) oder 360 (1994) in Black Widow (2021) -->
+<!-- footer: '[[30]](https://www.reddit.com/r/thinkpad/comments/omljet/thinkpads_in_movies_black_widow_2021)' -->
 
 ![bg](./imgs/black_widow.jpg)
 
 ---
 
 <!-- _header: `raise BufferOverflowException('Stahp')` -->
+<!-- footer: '' -->
 
 ![w:800 center](./imgs/thinkpad_alice_03.jpg)
 
@@ -1548,24 +1573,30 @@ Zu diesen Themen gibt es passende **Bücher**:
 - [ThinkPad 700](https://richardsapperdesign.com/products/thinkpad-700c/)
 - [Richard Sapper](https://en.wikipedia.org/wiki/Richard_Sapper)
 - [Artemide Tizio](https://commons.wikimedia.org/wiki/File:Lampe_Tizio_von_Richard_Sapper.jpg)
+- [Lorenz Static](https://richardsapperdesign.com/products/static/)
+- [Tizio und T430](https://www.reddit.com/r/thinkpad/comments/h16v1f/tizio_and_thinkpad_the_perfect_classical)
 - [IBM Model 5140](https://richardsapperdesign.com/products/mod-5140/)
+- [ThinkPad 550BJ](https://thinkwiki.de/550)
 - [ThinkPad 820 (Sarah Mädel / manawyrm)](https://photos.google.com/share/AF1QipO52rP1VsA7X3W-jMP5pSI6szBKNUtcz8vKa7rpMi-lc8GhH_qakCFNGeEkBe6Ydw?key=M3RCcGM3X1JBN3o3cDNlLXNtcUJUaTF5SW9xbkZn)
-- [ThinkPad 850](https://en.wikipedia.org/wiki/IBM_ThinkPad_Power_Series)
-- [UltraBay](https://thinkwiki.de/UltraBay)
-- [UltraBay Serial/Parallel](http://www.ymmfa.com/read-gktid-27003.html)
-- [UltraBay WorkPad Cradle](https://www.thinkwiki.org/wiki/Ultrabay_Plus_WorkPad_c500_Cradle)
-- [UltraPort](https://www.lenovoblog.cz/2019/02/ibm-thinkpad-ultraport-milenialni-konektor-pro-pripojeni-ruznorodeho-prislusenstvi.html)
 
 </div>
 
 <div class="col">
 
 - [ThinkPad HMC](https://www.reddit.com/r/thinkpad/comments/19d7nhd/classic_thinkpads_were_installed_in_ibm_mainframes/)
+- [UltraBay](https://thinkwiki.de/UltraBay)
+- [UltraBay Serial/Parallel](http://www.ymmfa.com/read-gktid-27003.html)
+- [UltraPort](https://www.lenovoblog.cz/2019/02/ibm-thinkpad-ultraport-milenialni-konektor-pro-pripojeni-ruznorodeho-prislusenstvi.html)
+- [UltraBay WorkPad Cradle](https://www.thinkwiki.org/wiki/Ultrabay_Plus_WorkPad_c500_Cradle)
+- [X300](https://youtube.com/watch?v=_hnOCUkbix0)
 - [W701ds](https://thinkwiki.de/W701)
-- [X1 Nano](https://www.notebookcheck.com/Lenovo-ThinkPad-X1-Nano-Laptop-im-Test-Business-Subnotebook-mit-LTE-wiegt-noch-nicht-einmal-1-kg.517236.0.html)
 - [Z13 G2](https://www.notebookcheck.com/ThinkPad-Z13-Gen-2-Laptop-im-Test-Lenovos-Antwort-auf-das-Dell-XPS-13.795442.0.html)
+- [X1 Nano](https://www.notebookcheck.com/Lenovo-ThinkPad-X1-Nano-Laptop-im-Test-Business-Subnotebook-mit-LTE-wiegt-noch-nicht-einmal-1-kg.517236.0.html)
 - [Reserve Edition](https://thinkwiki.de/X61)
 - [X1 Carbon G10 30th](https://www.notebookcheck.com/Test-Lenovo-ThinkPad-X1-Carbon-G10-30th-Anniversary-Laptop-OLED-Edition-mit-Ausdauer-Problem.673951.0.html)
+- [Lenowo BIOS logo](https://www.reddit.com/r/thinkpad/comments/112wxih/custom_boot_screen_on_my_p1_gen4/)
+- [Knives Out](https://productplacementblog.com/movies/lenovo-thinkpad-t61-laptop-used-by-christopher-plummer-as-harlan-thrombey-in-knives-out-2019/)
+- [Black Widow](https://www.reddit.com/r/thinkpad/comments/omljet/thinkpads_in_movies_black_widow_2021)
 
 </div>
 
